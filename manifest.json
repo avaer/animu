@@ -1,6 +1,6 @@
 {
-  "name": "miku",
-  "description": "Hatsune Miku",
+  "name": "animu",
+  "description": "Animu model",
   "xr_type": "vrm@0.0.1",
   "start_url": "model.vrm"
 }
